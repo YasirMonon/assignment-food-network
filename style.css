@@ -4,11 +4,11 @@ body{
 }
 h1{
     font-size: 55px;
-    color: #504c4c;
+    color: rgb(83, 69, 69);
 }
 h2{
     font-size: 45px;
-    color: rgb(119, 118, 118);
+    color: rgb(83, 69, 69);
 }
 h3{
     font-size: 25px;
@@ -16,7 +16,8 @@ h3{
     text-align: center;
 }
 p{
-    font-size: 20px;
+    font-weight: 600;
+    color: rgb(116, 105, 105);
 }
 .flexible-container{
     display: flex;
