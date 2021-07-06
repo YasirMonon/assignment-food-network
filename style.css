@@ -110,8 +110,30 @@ p{
     justify-content: center;
     border-radius: 20px;
 }
+input[type=submit]{
+    background-color: rgb(245, 68, 14);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-weight: 700;
+  }
+  #email-box{
+    border: 3px solid rgb(245, 68, 14);
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 0px;
+    text-align: center;
+  }
+.newsletter p{
+    text-align: center;
+}
 footer{
-    background-color: #000000;
+    background-color: rgb(0, 0, 0);
     color: white;
     padding: 10px 0px 10px 0px;
     text-align: center;
